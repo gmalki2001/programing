@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link rel="stylesheet" type= "text/css" href="styles.css"/>
+</head>
+<body>
+    <div class="outer-box">
+		<h3>Cavalier King Charles Spaniel</h3>
+		<img src="https://5starcanine.com/wp-content/uploads/2018/12/5e984679-34ca-8124-61f0-7c085e04ea38-Cav.jpg" alt="Cavalier Spaniel">
+			<div class="inner-box"><p><em>The Cavalier King Charles Spaniel is named after King Charles II. 
+				He was around in the 17th century, and this breed was his favorite. 
+                That’s why they were named after him.</em></p>
+			<ul>
+				<li><strong><span>Scientific Name</span>:</strong> Canis lupus familiaris</li>
+				<li><strong><span>Life Expectancy</span>:</strong> 9-14 years</li>
+				<li><strong><span>Weight</span>:</strong> 13–18 lbs</li>
+				<li><strong><span>Height</span>:</strong> 12–13 inches</li>
+			</ul>
+			<p>A small spaniel classed as a toy dog that originated in the United Kingdom. 
+				It has a silky, smooth coat and commonly a smooth undocked tail. 
+				The breed standard recognizes four colors: Blenheim (chestnut and white), Tricolor (black/white/tan), Black and Tan, and Ruby. 
+				The breed is generally friendly, affectionate and good with both children and other animals.</p>
+	</div>
+</body>
+</html>
